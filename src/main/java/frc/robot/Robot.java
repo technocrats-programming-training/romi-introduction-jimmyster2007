@@ -27,6 +27,7 @@ System.out.println("waiting");
 sleepSeconds(1);
 System.out.println("moving again");
 driveTime(-0.2, 5);
+turnTime(-0.5, 0.5)
 sleepSeconds(1);
 System.out.println("all done")
 
